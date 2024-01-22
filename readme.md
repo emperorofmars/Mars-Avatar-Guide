@@ -59,7 +59,7 @@ Use these export settings:
 ---
 
 ### Contact / Links
-**Find all my links at [mars.squirrel.pub](mars.squirrel.pub)**
+**Find all my links at [mars.squirrel.pub](https://mars.squirrel.pub)**
 * [Discord Server](https://discord.gg/MDggMXSttM)
 * [Mastodon](https://squirrel.pub/@mars)
 * [Bluesky](https://bsky.app/profile/mars.squirrel.pub)
