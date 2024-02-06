@@ -1,4 +1,4 @@
-# Emperor of Mars' Avatar Guide
+# Mars' Avatar Guide
 *squeak*
 
 **Thank you for getting one of my avatars!**
@@ -7,7 +7,7 @@
 
 ## General Tips
 * The only blendshapes that are meant for editing are contained within the `=== User Editing ===` section.
-* The Blender file is set up, so you can just apply the `Subdivision Surface` modifier. Be sure to check the `Use Custom Normals` option under the advanced settings for that modifier. You may also want to remove all of the projected floof. These are parts which projected the UV map and normals from the main body and look ugly after subdivision. Usually they are selected by a vertex-group called something like `Project Floof` of `Hip and Shoulder Floof`.
+* The Blender file is set up, so you can just apply the `Subdivision Surface` modifier. Be sure to check the `Use Custom Normals` option under the advanced settings for that modifier. You may also want to remove all of the projected floof. These are parts which projected the UV map and normals from the main body and look ugly after subdivision. Usually they are selected by a vertex-group called something like `Project Floof` or `Hip and Shoulder Floof`.
 
 ## VRChat Setup
 1) Set up a project with the [VRChat Creator Companion](https://vrchat.com/home/download)
@@ -17,7 +17,7 @@ The setup scene is located under `Assets/**AVATAR NAME**/Setup VRChat/Scenes`
 
 Adapt and upload an avatar with the VRC SDK and have fun!
 
-**Strongly recommended:** Use VRCFury with the `Blendshape Optimizer` and optionally `MMD Compatibility` features to upload a better performing avatar.
+**Strongly recommended:** Use VRCFury with the `Blendshape Optimizer` and optionally `MMD Compatibility` features to upload a way better performing avatar.
 
 ## ChilloutVR Setup (if included)
 1) Set up a project with the current ChilloutVR [Unity Version](https://documentation.abinteractive.net/cck/setup/#download-unity)
@@ -60,13 +60,13 @@ Use these export settings:
 
 ### Contact / Links
 **Find all my links at [mars.squirrel.pub](https://mars.squirrel.pub)**
-* [Discord Server](https://discord.gg/MDggMXSttM)
 * [Mastodon](https://squirrel.pub/@mars)
 * [Bluesky](https://bsky.app/profile/mars.squirrel.pub)
 * [Furaffinity](https://www.furaffinity.net/user/emperorofmars/)
 * [Twatter](https://twitter.com/Emperor_of_Mars)
+* [Discord Server](https://discord.gg/MDggMXSttM)
 * [VRC Group](https://vrc.group/SQRL.0269)
 
-\- Emperor of Mars
+\- Mars
 
 Cheers!
