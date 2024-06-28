@@ -11,13 +11,12 @@
 
 ## VRChat Setup
 1. Set up a project with the [VRChat Creator Companion](https://vrchat.com/home/download)
-2. Import the `.unitypackage`
+2. Add **[D4rk's Avatar Optimizer](https://d4rkc0d3r.github.io/vpm-repos/main_redirect.html)**
+3. Import the `.unitypackage`
 
 The setup scene is located under `Assets/**AVATAR NAME**/Setup VRChat/Scenes`
 
 Adapt and upload an avatar with the VRC SDK and have fun!
-
-**Strongly recommended:** Use VRCFury with the `Blendshape Optimizer` and optionally `MMD Compatibility` features to upload a way better performing avatar.
 
 ## ChilloutVR Setup (if included)
 1. Set up a project with the current ChilloutVR [Unity Version](https://documentation.abinteractive.net/cck/setup/#download-unity)
